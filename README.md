@@ -1,5 +1,4 @@
 # SocialMediaAppBackendAPI
-# Social Media Platform Backend
 
 Welcome to the Social Media Platform Backend! This project provides a robust backend solution for a social media platform, enabling users to manage their blog posts with secure authentication features.
 
